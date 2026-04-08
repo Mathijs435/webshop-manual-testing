@@ -20,3 +20,24 @@ Produkt bleibt im Warenkorb, obwohl die Seite neu geladen wurde.
 **Schweregrad:** Niedrig bis Mittel
 
 **Screenshot:** (kann später ergänzt werden)
+
+## Bug 2: Seite scrollt nach „Next“ nicht nach oben
+
+**Titel:** Nach Klick auf „Next“ bleibt die Seite unten stehen
+
+**Schritte zur Reproduktion:**
+1. Startseite von Demoblaze öffnen
+2. Nach unten scrollen, bis die Produktliste endet
+3. Auf „Next“ klicken
+4. Beobachten, wo die Seite bleibt
+
+**Erwartetes Ergebnis:**
+Die Seite sollte automatisch nach oben springen, damit der Nutzer die neuen Produkte von oben sehen kann.
+
+**Tatsächliches Ergebnis:**
+Die Seite bleibt unten stehen. Der Nutzer muss manuell nach oben scrollen, um die neuen Produkte zu sehen.
+
+**Schweregrad:** Niedrig (UI/UX‑Problem)
+
+**Screenshot:** (kann später ergänzt werden)
+
