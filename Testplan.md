@@ -40,3 +40,14 @@ Ziel ist es, grundlegende Funktionen eines Webshops manuell zu testen und typisc
 ## 8. Testdaten
 - Beispielprodukte
 - Fiktive Kundendaten
+
+## 9. Ein- und Ausstiegskriterien (Entry/Exit Criteria)
+### Einstiegskriterien:
+- Die Testumgebung (Webshop) ist erreichbar.
+- Die Testdaten (fiktive Nutzerdaten) liegen vor.
+### Ausstiegskriterien:
+- Alle geplanten Testfälle (TC-01 bis TC-06) wurden ausgeführt.
+- Alle Fehler mit dem Schweregrad "Hoch" sind behoben.
+
+## 10. Testobjekte & Traceability
+Jeder Testfall ist direkt mit den Zielen aus Abschnitt 2 verknüpft, um eine vollständige Testabdeckung sicherzustellen.
